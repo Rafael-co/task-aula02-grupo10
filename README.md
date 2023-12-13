@@ -2,18 +2,19 @@
 
 ## Filmes
 
-## Nome dos integrantes:
-* Anderson Turkiewicz;
-* Greice Rosa;
-* Gustavo Aveline;
-* Rafael Camilo;
-* Victor Prudente;
-* Thales Brasileiro.
+## Nome dos integrantes e branch:
+* Anderson Turkiewicz -> feat-add-mercenarios
+* Greice Rosa ->
+* Gustavo Aveline ->
+* Rafael Camilo ->
+* Victor Prudente ->
+* Thales Brasileiro ->
 
 ## Padrões escolhidos
  * feat e commit em português
  * Integrantes que trabalham no readme
-    - Rafael Camilo 
+    - Rafael Camilo
+    - Anderson Turkiewicz
    
    
 
