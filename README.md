@@ -7,7 +7,7 @@
 * Greice Rosa ->
 * Gustavo Aveline -> feat-add-estilizacao
 * Rafael Camilo ->
-* Victor Prudente ->
+* Victor Prudente -> feat-add-retorno-do-rei
 * Thales Brasileiro -> feat-add-assassinos
 
 ## Padrões escolhidos
@@ -16,3 +16,4 @@
     - Rafael Camilo
     - Anderson Turkiewicz
     - Thales Brasileiro
+    - Victor Prudente
