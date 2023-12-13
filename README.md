@@ -2,7 +2,8 @@
 
 ## Filmes
  <img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vd22faXhHRCr8d1FSiXuFfnpSKv.jpg"
-            alt="filme-capa-mercenarios" class="imagem" />
+            alt="filme-capa-mercenarios" class="imagem" width = "250px"/>
+ 
  *link da referencias
     https://www.themoviedb.org/
     
@@ -21,3 +22,4 @@
     - Anderson Turkiewicz
     - Thales Brasileiro
     - Victor Prudente
+    - Gustavo Aveline
